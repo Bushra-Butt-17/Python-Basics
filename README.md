@@ -35,7 +35,7 @@ Welcome to the **Python Basics - Solved** repository! This repository contains s
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/python-basics-solved.git
+   git clone https://github.com/Bushra-Butt-17/python-basics-solved.git
    ```
 2. Navigate to the directory:
    ```bash
@@ -82,15 +82,7 @@ Contributions are welcome! Feel free to open issues for discussions or submit pu
 
 ---
 
-## 📧 Contact
-
-If you have any questions or feedback, feel free to reach out to me at **bsdsf21m020@pucit.edu.pk**.
-
----
-
 ## ⭐ Acknowledgements
 
 This repository was created to provide a strong foundation for Python programming. If you find it helpful, don't forget to **star** this repository!
 ```
-
-Feel free to tweak the details to suit your preferences! Let me know if you need help with setting up or improving the structure further.
