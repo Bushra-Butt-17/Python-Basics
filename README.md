@@ -1,7 +1,7 @@
 
 # Python Basics - Solved Notebooks
 
-Welcome to the **Python Basics - Solved** repository! This repository contains solved examples and explanations for key topics in Python programming, tailored to beginners and intermediate learners. Each lecture is designed to provide hands-on learning with real-world coding scenarios.
+Welcome to the **Python Basics - Solved** repository!! This repository contains solved examples and explanations for key topics in Python programming, tailored to beginners and intermediate learners. Each lecture is designed to provide hands-on learning with real-world coding scenarios.
 
 ---
 
